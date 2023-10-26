@@ -1,9 +1,4 @@
-<html>
 
-  <head>
-  </head>
-  
-<body>
 
  <h1 align="center">Assignment</h1>
  <i style="font-size:10px;">Jayesh A bagul<hr></hr></i>
